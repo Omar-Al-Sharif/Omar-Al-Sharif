@@ -1,6 +1,6 @@
 <img align=right src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450">
 
-### Hi there, I'm Omar Al Sharif! 👩‍💻
+### Hi there, I'm Omar Al Sharif! 👨🏻‍💻
 
 
 #### A senior Computer Engineering student specializing in Artificial Intelligence. My projects spans across key areas including Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Generative AI. Currently earning my Bachelor's degree in Computer Engineering at Cairo University 🏫
