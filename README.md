@@ -25,10 +25,6 @@
 - [**Magic Inpainting**](https://github.com/Omar-Al-Sharif/Magic-Inpainting)  
   An algorithm to magically remove unwanted objects from images and intelligently fill the void with matching backgrounds, without deep learning
 
-### Certifications 📄
-- [**Supervised Machine Learning, DeepLearning.AI, 2023**](https://www.coursera.org/account/accomplishments/certificate/ZUNTWY8EMU89)
-
-
 ### Connect with Me 🤝
 <code><a href="https://www.linkedin.com/in/omar-al-sharif/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" /></a></code>
 <code><a href="mailto:eng.omar.al.sharif@gmail.com" target="_blank"><img  src="https://img.icons8.com/color/48/gmail-new.png" height="40" width="40" /></a></code>
