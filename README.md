@@ -20,7 +20,8 @@
 
   A transformer-based arabic text summarizer trained on 160,000 Arabic Articles to extract key information and generate concise arabic summaries
 - [**AI Arabic Diacritization Engine - مِشَكِّلاتي.ai**](https://www.kaggle.com/competitions/cufe-cmp-credit-nlp-fall-2023/leaderboard)
-   A neural and statistical engine for accurately adding diacritics (Tashkeel) to Arabic text. First place winner on Kaggle for an outstanding accuracy of 98%
+
+  A neural and statistical engine for accurately adding diacritics (Tashkeel) to Arabic text. First place winner on Kaggle for an outstanding accuracy of 98%
 - [**Magic Inpainting**](https://github.com/Omar-Al-Sharif/Magic-Inpainting)  
   An algorithm to magically remove unwanted objects from images and intelligently fill the void with matching backgrounds, without deep learning
 
