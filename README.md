@@ -7,7 +7,7 @@
 
 ### Experience 🏆
 - **AI Competitions and Hackathons**
-  - [**<mark style="background-color: #FFB02E;">1st Place Team</mark>** , CUFE Artificial Intelligence Diacritization Competition on kaggle, Jan 2024 🥇](https://www.kaggle.com/competitions/cufe-cmp-credit-nlp-fall-2023/leaderboard)
+  - [**<mark style="background-color: #FFB02E;">`1st Place Team`</mark>** , CUFE Artificial Intelligence Diacritization Competition on kaggle, Jan 2024 🥇](https://www.kaggle.com/competitions/cufe-cmp-credit-nlp-fall-2023/leaderboard)
     
   - [Participant, The International Competition of Military Technical College, AIC-1, Jul 2023 ⭐️](https://www.linkedin.com/posts/omar-al-sharif_%D9%8A%D8%B4%D8%B1%D9%81%D9%86%D8%A7-%D9%86%D8%B4%D8%A7%D8%B1%D9%83-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%B6%D8%AE%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-activity-7085613020566949888-JNS0/?utm_source=share&utm_medium=member_desktop) 
 
