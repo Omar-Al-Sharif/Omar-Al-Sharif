@@ -28,7 +28,7 @@
 - [**Unsupervised Learning in Python**](https://www.datacamp.com/statement-of-accomplishment/course/2a7f2c2f96c969f9d6b7013f356dc97a4e65a85f)
 - [**Tree-Based Machine Learning Models**](https://www.datacamp.com/statement-of-accomplishment/course/6925fb9363d21cb71c88ea36cae8d7cdef99301b)
 - [**Programming in R**](https://www.datacamp.com/statement-of-accomplishment/course/61455bf78110aff3c5df7a4692c078996b5ebbad)
-- [**CNNs, LSTMs & Multi Input/Output Models with PyTorch**](https://www.datacamp.com/statement-of-accomplishment/course/b6da713cb73ebdc422878634b38bedde90fc7eba)
+- [**CNNs, Seq Models & Multi I/O Models with PyTorch**](https://www.datacamp.com/statement-of-accomplishment/course/b6da713cb73ebdc422878634b38bedde90fc7eba)
   
 ### Connect with Me 🤝
 <code><a href="https://www.linkedin.com/in/omar-al-sharif/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" /></a></code>
