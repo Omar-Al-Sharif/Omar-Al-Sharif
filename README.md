@@ -2,7 +2,7 @@
 - **AI Competitions and Hackathons**
   - [**<mark style="background-color: #FFB02E;">`1st Place Team`</mark>** , CUFE Artificial Intelligence Diacritization Competition on kaggle, Jan 2024 🥇](https://www.kaggle.com/competitions/cufe-cmp-credit-nlp-fall-2023/leaderboard)
     
-  - [Participant, The International Competition of Military Technical College, AIC-1, Jul 2023 ⭐️](https://www.linkedin.com/posts/omar-al-sharif_%D9%8A%D8%B4%D8%B1%D9%81%D9%86%D8%A7-%D9%86%D8%B4%D8%A7%D8%B1%D9%83-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%B6%D8%AE%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-activity-7085613020566949888-JNS0/?utm_source=share&utm_medium=member_desktop) 
+  - [Team leader, The International Competition of Military Technical College, AIC-1, Jul 2023 ⭐️](https://www.linkedin.com/posts/omar-al-sharif_%D9%8A%D8%B4%D8%B1%D9%81%D9%86%D8%A7-%D9%86%D8%B4%D8%A7%D8%B1%D9%83-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%B6%D8%AE%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-activity-7085613020566949888-JNS0/?utm_source=share&utm_medium=member_desktop) 
 
 <img align=right src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450">
 
@@ -17,18 +17,18 @@
   A transformer-based Arabic text summarizer trained on 160,000 Arabic Articles to extract key information and generate concise Arabic summaries
 - [**AI Arabic Diacritization Engine - مِشَكِّلاتي.ai**](https://www.kaggle.com/competitions/cufe-cmp-credit-nlp-fall-2023/leaderboard)
 
-  A neural and statistical engine for accurately adding diacritics (Tashkeel) to Arabic text. First-place winner on Kaggle for outstanding accuracy.
+  A neural and statistical engine for accurately adding diacritics (Tashkeel) to Arabic text. First-place winner on Kaggle for outstanding accuracy
 - [**Magic Inpainting**](https://github.com/Omar-Al-Sharif/Magic-Inpainting)  
-  An algorithm to magically remove unwanted objects from images and intelligently fill the void with matching backgrounds, without deep learning
+  An algorithm to magically remove unwanted objects from images and intelligently fill the void with matching backgrounds, in real-time
 
-### Certificates 📄
+### Certificates 🏅
 - [**Supervised Machine Learning**](https://www.coursera.org/account/accomplishments/certificate/ZUNTWY8EMU89)
 - [**Deep Learning with PyTorch**](https://www.datacamp.com/statement-of-accomplishment/course/5ccc6a2fcd61093813c8cd3d5cb633e7e598a5dc)
 - [**Supervised Learning with scikit-learn**](https://www.datacamp.com/statement-of-accomplishment/course/7eed98ec23756591b4e6c20faf3e45b1b2e3ecb4)
 - [**Unsupervised Learning in Python**](https://www.datacamp.com/statement-of-accomplishment/course/2a7f2c2f96c969f9d6b7013f356dc97a4e65a85f)
 - [**Tree-Based Machine Learning Models**](https://www.datacamp.com/statement-of-accomplishment/course/6925fb9363d21cb71c88ea36cae8d7cdef99301b)
 - [**Programming in R**](https://www.datacamp.com/statement-of-accomplishment/course/61455bf78110aff3c5df7a4692c078996b5ebbad)
-- [**CNNs, Seq Models & Multi I/O Models with PyTorch**](https://www.datacamp.com/statement-of-accomplishment/course/b6da713cb73ebdc422878634b38bedde90fc7eba)
+- [**CNNs, Seq Models & Multi I/O Models**](https://www.datacamp.com/statement-of-accomplishment/course/b6da713cb73ebdc422878634b38bedde90fc7eba)
   
 ### Connect with Me 🤝
 <code><a href="https://www.linkedin.com/in/omar-al-sharif/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" /></a></code>
