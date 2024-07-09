@@ -1,4 +1,4 @@
-<img width="1834" alt="Omar-Al-Sharif" src="https://github.com/Omar-Al-Sharif/Omar-Al-Sharif/assets/68480294/8c4252d7-97cf-41f6-91fe-1308911929af"><h3 style="margin-top: 0;">Experience 🏆</h3> 
+<img width="1834" alt="Omar-Al-Sharif" src="./Omar-Al-Sharif.png"><h3 style="margin-top: 0;">Experience 🏆</h3> 
 - **AI Competitions and Hackathons**
   - [**<mark style="background-color: #FFB02E;">`1st Place Team`</mark>** , CUFE Artificial Intelligence Diacritization Competition on kaggle, Jan 2024 🥇](https://www.kaggle.com/competitions/cufe-cmp-credit-nlp-fall-2023/leaderboard)
     
