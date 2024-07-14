@@ -1,15 +1,16 @@
 <img width="1834" alt="Omar-Al-Sharif" src="./Omar-Al-Sharif.png"><h3 style="margin-top: 0;">Experience 🏆</h3> 
 - **AI Competitions and Hackathons**
-  - [**<mark style="background-color: #FFB02E;">`1st Place Team`</mark>** , CUFE Artificial Intelligence Diacritization Competition on kaggle, Jan 2024 🥇](https://www.kaggle.com/competitions/cufe-cmp-credit-nlp-fall-2023/leaderboard)
+  - [**<mark style="background-color: #FFB02E;">`1st Place Team`</mark>** , CUFE Artificial Intelligence Diacritization Competition on kaggle 🥇](https://www.kaggle.com/competitions/cufe-cmp-credit-nlp-fall-2023/leaderboard)
     
-  - [Team leader, The International Competition of Military Technical College, AIC-1, Jul 2023 ⭐️](https://www.linkedin.com/posts/omar-al-sharif_%D9%8A%D8%B4%D8%B1%D9%81%D9%86%D8%A7-%D9%86%D8%B4%D8%A7%D8%B1%D9%83-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%B6%D8%AE%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-activity-7085613020566949888-JNS0/?utm_source=share&utm_medium=member_desktop) 
+  - [Team leader, The International Competition of Military Technical College, AIC-1 ⭐️](https://www.linkedin.com/posts/omar-al-sharif_%D9%8A%D8%B4%D8%B1%D9%81%D9%86%D8%A7-%D9%86%D8%B4%D8%A7%D8%B1%D9%83-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%B6%D8%AE%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-activity-7085613020566949888-JNS0/?utm_source=share&utm_medium=member_desktop)
+  - [AIC-2 2024 Participant ⭐️](https://www.kaggle.com/competitions/mct-aic-2/overview) 
 
 <img align=right src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450">
 
 - **Work Experience and Internships**
-    - [Generative AI and Machine Learning Intern, SMACRS, Aug 2023 🤖](https://www.linkedin.com/posts/omar-al-sharif_glad-to-announce-that-i-have-started-a-new-activity-7094366992412872704-5qId/?utm_source=share&utm_medium=member_desktop)
+    - [Generative AI and Machine Learning Intern, SMACRS 🤖](https://www.linkedin.com/posts/omar-al-sharif_glad-to-announce-that-i-have-started-a-new-activity-7094366992412872704-5qId/?utm_source=share&utm_medium=member_desktop)
       
-    - [Programming & Robotics Instructor for foreign students from 13 countries, AFS Egypt, Jul 2023 🇺🇸🇩🇪🇬🇧🇯🇵🇹🇹🇨🇳🇿🇦🇮🇩🇦🇿🇲🇽🇲🇾🇮🇳🇧🇷](https://www.linkedin.com/posts/omar-al-sharif_honored-to-share-my-intercultural-experience-activity-7094044612536758272-BBsf/?utm_source=share&utm_medium=member_desktop)
+    - [Programming & Robotics Instructor for foreign students from 13 countries, AFS Egypt 🇺🇸🇩🇪🇬🇧🇯🇵🇹🇹🇨🇳🇿🇦🇮🇩🇦🇿🇲🇽🇲🇾🇮🇳🇧🇷](https://www.linkedin.com/posts/omar-al-sharif_honored-to-share-my-intercultural-experience-activity-7094044612536758272-BBsf/?utm_source=share&utm_medium=member_desktop)
 
 ### Projects 👨🏻‍💻
 - [**AI Arabic Summarizer - من الآخر.ai**](https://www.linkedin.com/posts/omar-al-sharif_%D9%8A%D8%B4%D8%B1%D9%81%D9%86%D8%A7-%D9%86%D8%B4%D8%A7%D8%B1%D9%83-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%B6%D8%AE%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-activity-7085613020566949888-JNS0/?utm_source=share&utm_medium=member_desktop)
