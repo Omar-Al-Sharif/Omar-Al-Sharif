@@ -32,6 +32,7 @@
 - [**CNNs, Seq Models & Multi I/O Models**](https://www.datacamp.com/statement-of-accomplishment/course/b6da713cb73ebdc422878634b38bedde90fc7eba)
   
 ### Connect with Me 🤝
+<code><a href="https://linktr.ee/omaralsharif" target="_blank"><img src="./linktree.svg" height="35" width="40" /></a></code>
 <code><a href="https://www.linkedin.com/in/omar-al-sharif/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" /></a></code>
 <code><a href="mailto:eng.omar.al.sharif@gmail.com" target="_blank"><img  src="https://img.icons8.com/color/48/gmail-new.png" height="40" width="40" /></a></code>
 <code><a href="https://www.kaggle.com/omaralsharif" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="35" width="40"/></a></code>
