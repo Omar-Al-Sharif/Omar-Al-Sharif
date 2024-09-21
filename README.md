@@ -8,6 +8,7 @@
 <img align=right src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450">
 
 - **Work Experience and Internships**
+    - [Machine Learning Engineer (Computer Vision), Synapse Analytics](https://www.linkedin.com/posts/omar-al-sharif_happy-to-share-that-i-am-joining-synapse-activity-7239958902203658241--EGo?utm_source=share&utm_medium=member_desktop)
     - [Computer Vision Intern, Synapse Analytics](https://www.linkedin.com/posts/omar-al-sharif_happy-to-announce-that-im-starting-a-new-activity-7207373465840979968-9-xj?utm_source=share&utm_medium=member_desktop)
     - [Generative AI and Machine Learning Intern, SMACRS 🤖](https://www.linkedin.com/posts/omar-al-sharif_glad-to-announce-that-i-have-started-a-new-activity-7094366992412872704-5qId/?utm_source=share&utm_medium=member_desktop)
       
